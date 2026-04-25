@@ -3350,3 +3350,41 @@ code {
     --normal-text: #dcdcde;
     --muted-text: #86868e;
 }
+
+.stack_dbd263 .listItem__650eb:not(.wrapper__48112 .listItem__650eb) {
+    width: initial;
+    padding: 1px;
+    margin: 2px;
+}
+.stack_dbd263 {
+    justify-content: center !important;
+}
+.pill_e5445c {
+    width: 100% !important;
+}
+.wrapper__58105 {
+    overflow: visible !important;
+}
+.item__58105 {
+    animation: var(--unread-server-animation) 3s linear infinite;
+    border: 2px solid var(--main-theme-color);
+    background: 0 0;
+    display: block;
+    border-radius: 30% !important;
+    position: absolute;
+    transform: none !important;
+    inset: 0 !important;
+    top: -2px !important;
+    left: 2px !important;
+    width: 100%;
+    height: 100% !important;
+}
+.itemsContainer_ef3116 .stack_dbd263 {
+    display: flex !important;
+    flex-direction: column !important;
+    flex-flow: row wrap !important;
+    align-items: flex-start !important;
+}
+.tutorialContainer__1f388 .listItem__650eb .pill__1f388.wrapper__58105 {
+    display: none;
+}
