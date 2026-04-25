@@ -3394,3 +3394,18 @@ code {
 .tutorialContainer__1f388 .listItem__650eb .pill__1f388.wrapper__58105 {
     display: none;
 }
+
+@keyframes rainbow {
+    0% {
+        -webkit-filter: hue-rotate(0);
+        -moz-filter: hue-rotate(0);
+        -ms-filter: hue-rotate(0);
+        filter: hue-rotate(0);
+    }
+    100% {
+        -webkit-filter: hue-rotate(360deg);
+        -moz-filter: hue-rotate(360deg);
+        -ms-filter: hue-rotate(360deg);
+        filter: hue-rotate(360deg);
+    }
+}
