@@ -226,7 +226,7 @@
     content: "";
     height: 2px;
     flex-grow: 1;
-    background: linear-gradient(to left, var(--hsl-main-color) 50%, transparent);
+    background: linear-gradient(to left, var(--hsl-main-color) 25%, transparent);
     margin-right: 5px;
 }
 .header_aa8da2::after {
