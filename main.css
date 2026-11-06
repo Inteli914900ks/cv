@@ -2423,10 +2423,10 @@ code {
 .selected_d96a9c.statusYellow_d96a9c {
     border-color: var(--status-warning);
 }
-.selected_d96a9c.d96a9cdaeeba104e-statusOrange_d96a9c {
+.selected_d96a9c.statusOrange_d96a9c_d96a9c {
     border-color: var(--orange-360);
 }
-.selected_d96a9c.d96a9cdaeeba104e-statusRed_d96a9c {
+.selected_d96a9c.statusRed_d96a9c_d96a9c {
     border-color: var(--status-danger);
 }
 .collapseable__217b7,
@@ -3409,3 +3409,4 @@ code {
         filter: hue-rotate(360deg);
     }
 }
+
